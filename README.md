@@ -1,2 +1,2 @@
 # digital-talent
-Repository Digital Talent Scholarship 2018 | Big Data | UGM
+Repository for Digital Talent Scholarship 2018 | Big Data | UGM
