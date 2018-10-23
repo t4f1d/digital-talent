@@ -1,0 +1,393 @@
+<div align="center"><h4>Data Verifikasi</h4></div>
+<div align="center"><h4>Jumlah Siswa SMA Menurut Tempat Tinggal </h4></div>
+<div class="text-left"><font color="red"><strong>Kondisi Data Verifikasi : 23-10-2018 06:00:00</strong></font></div>
+
+<table id="datatables"  class="table table-bordered table-striped table-hover table-condensed">
+    <thead>
+        <tr>
+            <th rowspan="2" style="text-align: center">No</th>
+            <th rowspan="2" style="text-align: center">Indonesia</th>
+            <th colspan="2" style="text-align: center">Negeri</th>
+            <th colspan="2" style="text-align: center">Swasta</th>
+            <th rowspan="2" style="text-align: center"><strong>Total</strong></th>
+        </tr>
+        <tr>
+            <th style="text-align: center">L</th>
+            <th style="text-align: center">P</th>
+            <th style="text-align: center">L</th>
+            <th style="text-align: center">P</th>
+        </tr>
+                <tr>
+            <th colspan="2" style="text-align: center"><strong>Total</strong></th>
+            <th style="text-align: right"><strong>1.462.552</strong></th>
+            <th style="text-align: right"><strong>1.948.360</strong></th>
+            <th style="text-align: right"><strong>611.265</strong></th>
+            <th style="text-align: right"><strong>633.471</strong></th>
+
+            <th style="text-align: right"><strong>4.655.648</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+                    <tr>
+                <td style="text-align: center">1</td>
+                <td>Prov. D.K.I. Jakarta</td>
+                <td style="text-align: right">33.557</td>
+                <td style="text-align: right">46.660</td>
+                <td style="text-align: right">39.756</td>
+                <td style="text-align: right">36.115</td>
+                <td style="text-align: right">
+                    <strong>156.088</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">2</td>
+                <td>Prov. Jawa Barat</td>
+                <td style="text-align: right">175.879</td>
+                <td style="text-align: right">258.938</td>
+                <td style="text-align: right">103.957</td>
+                <td style="text-align: right">109.628</td>
+                <td style="text-align: right">
+                    <strong>648.402</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">3</td>
+                <td>Prov. Jawa Tengah</td>
+                <td style="text-align: right">104.070</td>
+                <td style="text-align: right">190.075</td>
+                <td style="text-align: right">44.919</td>
+                <td style="text-align: right">53.242</td>
+                <td style="text-align: right">
+                    <strong>392.306</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">4</td>
+                <td>Prov. D.I. Yogyakarta</td>
+                <td style="text-align: right">13.430</td>
+                <td style="text-align: right">22.809</td>
+                <td style="text-align: right">7.651</td>
+                <td style="text-align: right">7.058</td>
+                <td style="text-align: right">
+                    <strong>50.948</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">5</td>
+                <td>Prov. Jawa Timur</td>
+                <td style="text-align: right">132.371</td>
+                <td style="text-align: right">185.042</td>
+                <td style="text-align: right">93.386</td>
+                <td style="text-align: right">102.374</td>
+                <td style="text-align: right">
+                    <strong>513.173</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">6</td>
+                <td>Prov. Aceh</td>
+                <td style="text-align: right">56.396</td>
+                <td style="text-align: right">66.489</td>
+                <td style="text-align: right">6.140</td>
+                <td style="text-align: right">7.675</td>
+                <td style="text-align: right">
+                    <strong>136.700</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">7</td>
+                <td>Prov. Sumatera Utara</td>
+                <td style="text-align: right">99.919</td>
+                <td style="text-align: right">130.884</td>
+                <td style="text-align: right">61.944</td>
+                <td style="text-align: right">70.573</td>
+                <td style="text-align: right">
+                    <strong>363.320</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">8</td>
+                <td>Prov. Sumatera Barat</td>
+                <td style="text-align: right">51.427</td>
+                <td style="text-align: right">75.224</td>
+                <td style="text-align: right">8.411</td>
+                <td style="text-align: right">7.052</td>
+                <td style="text-align: right">
+                    <strong>142.114</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">9</td>
+                <td>Prov. Riau</td>
+                <td style="text-align: right">54.334</td>
+                <td style="text-align: right">69.324</td>
+                <td style="text-align: right">11.222</td>
+                <td style="text-align: right">12.036</td>
+                <td style="text-align: right">
+                    <strong>146.916</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">10</td>
+                <td>Prov. Jambi</td>
+                <td style="text-align: right">30.374</td>
+                <td style="text-align: right">35.822</td>
+                <td style="text-align: right">4.380</td>
+                <td style="text-align: right">4.541</td>
+                <td style="text-align: right">
+                    <strong>75.117</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">11</td>
+                <td>Prov. Sumatera Selatan</td>
+                <td style="text-align: right">66.736</td>
+                <td style="text-align: right">84.955</td>
+                <td style="text-align: right">25.982</td>
+                <td style="text-align: right">24.483</td>
+                <td style="text-align: right">
+                    <strong>202.156</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">12</td>
+                <td>Prov. Lampung</td>
+                <td style="text-align: right">46.475</td>
+                <td style="text-align: right">63.210</td>
+                <td style="text-align: right">19.774</td>
+                <td style="text-align: right">20.569</td>
+                <td style="text-align: right">
+                    <strong>150.028</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">13</td>
+                <td>Prov. Kalimantan Barat</td>
+                <td style="text-align: right">38.147</td>
+                <td style="text-align: right">45.491</td>
+                <td style="text-align: right">15.954</td>
+                <td style="text-align: right">17.052</td>
+                <td style="text-align: right">
+                    <strong>116.644</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">14</td>
+                <td>Prov. Kalimantan Tengah</td>
+                <td style="text-align: right">23.240</td>
+                <td style="text-align: right">25.188</td>
+                <td style="text-align: right">3.272</td>
+                <td style="text-align: right">3.707</td>
+                <td style="text-align: right">
+                    <strong>55.407</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">15</td>
+                <td>Prov. Kalimantan Selatan</td>
+                <td style="text-align: right">24.846</td>
+                <td style="text-align: right">29.422</td>
+                <td style="text-align: right">3.866</td>
+                <td style="text-align: right">4.212</td>
+                <td style="text-align: right">
+                    <strong>62.346</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">16</td>
+                <td>Prov. Kalimantan Timur</td>
+                <td style="text-align: right">25.768</td>
+                <td style="text-align: right">33.049</td>
+                <td style="text-align: right">5.552</td>
+                <td style="text-align: right">6.015</td>
+                <td style="text-align: right">
+                    <strong>70.384</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">17</td>
+                <td>Prov. Sulawesi Utara</td>
+                <td style="text-align: right">19.385</td>
+                <td style="text-align: right">21.517</td>
+                <td style="text-align: right">7.647</td>
+                <td style="text-align: right">7.182</td>
+                <td style="text-align: right">
+                    <strong>55.731</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">18</td>
+                <td>Prov. Sulawesi Tengah</td>
+                <td style="text-align: right">28.993</td>
+                <td style="text-align: right">34.310</td>
+                <td style="text-align: right">3.104</td>
+                <td style="text-align: right">3.384</td>
+                <td style="text-align: right">
+                    <strong>69.791</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">19</td>
+                <td>Prov. Sulawesi Selatan</td>
+                <td style="text-align: right">83.605</td>
+                <td style="text-align: right">113.049</td>
+                <td style="text-align: right">19.813</td>
+                <td style="text-align: right">17.073</td>
+                <td style="text-align: right">
+                    <strong>233.540</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">20</td>
+                <td>Prov. Sulawesi Tenggara</td>
+                <td style="text-align: right">37.758</td>
+                <td style="text-align: right">43.125</td>
+                <td style="text-align: right">4.218</td>
+                <td style="text-align: right">2.870</td>
+                <td style="text-align: right">
+                    <strong>87.971</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">21</td>
+                <td>Prov. Maluku</td>
+                <td style="text-align: right">26.806</td>
+                <td style="text-align: right">28.809</td>
+                <td style="text-align: right">6.435</td>
+                <td style="text-align: right">6.292</td>
+                <td style="text-align: right">
+                    <strong>68.342</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">22</td>
+                <td>Prov. Bali</td>
+                <td style="text-align: right">29.980</td>
+                <td style="text-align: right">30.506</td>
+                <td style="text-align: right">13.202</td>
+                <td style="text-align: right">11.241</td>
+                <td style="text-align: right">
+                    <strong>84.929</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">23</td>
+                <td>Prov. Nusa Tenggara Barat</td>
+                <td style="text-align: right">40.039</td>
+                <td style="text-align: right">45.543</td>
+                <td style="text-align: right">10.401</td>
+                <td style="text-align: right">8.991</td>
+                <td style="text-align: right">
+                    <strong>104.974</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">24</td>
+                <td>Prov. Nusa Tenggara Timur</td>
+                <td style="text-align: right">52.784</td>
+                <td style="text-align: right">67.744</td>
+                <td style="text-align: right">26.881</td>
+                <td style="text-align: right">29.399</td>
+                <td style="text-align: right">
+                    <strong>176.808</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">25</td>
+                <td>Prov. Papua</td>
+                <td style="text-align: right">21.212</td>
+                <td style="text-align: right">19.228</td>
+                <td style="text-align: right">10.827</td>
+                <td style="text-align: right">8.800</td>
+                <td style="text-align: right">
+                    <strong>60.067</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">26</td>
+                <td>Prov. Bengkulu</td>
+                <td style="text-align: right">19.749</td>
+                <td style="text-align: right">25.217</td>
+                <td style="text-align: right">2.144</td>
+                <td style="text-align: right">1.570</td>
+                <td style="text-align: right">
+                    <strong>48.680</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">27</td>
+                <td>Prov. Maluku Utara</td>
+                <td style="text-align: right">14.779</td>
+                <td style="text-align: right">15.787</td>
+                <td style="text-align: right">3.223</td>
+                <td style="text-align: right">3.200</td>
+                <td style="text-align: right">
+                    <strong>36.989</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">28</td>
+                <td>Prov. Banten</td>
+                <td style="text-align: right">48.979</td>
+                <td style="text-align: right">64.994</td>
+                <td style="text-align: right">33.675</td>
+                <td style="text-align: right">33.405</td>
+                <td style="text-align: right">
+                    <strong>181.053</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">29</td>
+                <td>Prov. Kepulauan Bangka Belitung</td>
+                <td style="text-align: right">8.795</td>
+                <td style="text-align: right">11.546</td>
+                <td style="text-align: right">2.102</td>
+                <td style="text-align: right">2.092</td>
+                <td style="text-align: right">
+                    <strong>24.535</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">30</td>
+                <td>Prov. Gorontalo</td>
+                <td style="text-align: right">10.403</td>
+                <td style="text-align: right">13.903</td>
+                <td style="text-align: right">583</td>
+                <td style="text-align: right">620</td>
+                <td style="text-align: right">
+                    <strong>25.509</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">31</td>
+                <td>Prov. Kepulauan Riau</td>
+                <td style="text-align: right">14.739</td>
+                <td style="text-align: right">18.084</td>
+                <td style="text-align: right">2.922</td>
+                <td style="text-align: right">3.295</td>
+                <td style="text-align: right">
+                    <strong>39.040</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">32</td>
+                <td>Prov. Papua Barat</td>
+                <td style="text-align: right">8.930</td>
+                <td style="text-align: right">9.493</td>
+                <td style="text-align: right">3.887</td>
+                <td style="text-align: right">3.475</td>
+                <td style="text-align: right">
+                    <strong>25.785</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">33</td>
+                <td>Prov. Sulawesi Barat</td>
+                <td style="text-align: right">11.075</td>
+                <td style="text-align: right">14.114</td>
+                <td style="text-align: right">885</td>
+                <td style="text-align: right">820</td>
+                <td style="text-align: right">
+                    <strong>26.894</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">34</td>
+                <td>Prov. Kalimantan Utara</td>
+                <td style="text-align: right">6.024</td>
+                <td style="text-align: right">7.076</td>
+                <td style="text-align: right">1.566</td>
+                <td style="text-align: right">1.437</td>
+                <td style="text-align: right">
+                    <strong>16.103</strong>                </td>
+            </tr>
+                        <tr>
+                <td style="text-align: center">35</td>
+                <td><strong><font color="blue">Tidak Mengisi</font></strong></td>
+                <td style="text-align: right">1.548</td>
+                <td style="text-align: right">1.733</td>
+                <td style="text-align: right">1.584</td>
+                <td style="text-align: right">1.993</td>
+                <td style="text-align: right">
+                    <strong>6.858</strong>                </td>
+            </tr>
+                </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="2" style="text-align: center"><strong>Total</strong></td>
+            <td style="text-align: right"><strong>1.462.552</strong></td>
+            <td style="text-align: right"><strong>1.948.360</strong></td>
+            <td style="text-align: right"><strong>611.265</strong></td>
+            <td style="text-align: right"><strong>633.471</strong></td>
+
+            <td style="text-align: right"><strong>4.655.648</strong></td>
+        </tr>
+    </tfoot>
+</table>
