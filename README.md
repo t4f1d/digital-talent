@@ -19,7 +19,7 @@ Python Notebook program to measure the common **statistical functions**. A stati
 ## - Tugas Word Count
 **Word Count** is a technique in which a sorted list of words and their frequency from data sources. In this Python Notebook program, Word Count is generated from a sample paragraph that we got from a news description, separate each word, and calculate each word based on their frequency.
 
-## Analisis Data Siswa SMA
+## - Analisis Data Siswa SMA
 Analysis data from [data.go.id](https://data.go.id/) which determine the percentage of the Senior High School student (SMA). The initial dataset contains the percentage of high school students according to the residence, in each province in Indonesia. Data sourced from Data and Statistics Center of Education and Culture of Indonesia
 
 ---
