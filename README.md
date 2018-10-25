@@ -1,10 +1,12 @@
-![Indonesia](https://octodex.github.com/images/mountietocat.png | width=100)
-![Data Scientist](https://octodex.github.com/images/labtocat.png | width=100)
+![Indonesia](https://octodex.github.com/images/mountietocat.png){:height="30%" width="30%"}
+![Data Scientist](https://octodex.github.com/images/labtocat.png){:height="30%" width="30%"}
 
 # digital-talent
 
 :octocat: Repository for **Digital Talent Scholarship 2018** | Big Data | UGM
+
 **Big Data Analytics** specialization class facilitated by Universitas Gadjah Mada (UGM)
+
 Event held by Ministry of Communication and Information Technology of the Republic of Indonesia 
 
 ### - Tugas BMI
