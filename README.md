@@ -1,14 +1,14 @@
-<img src="https://octodex.github.com/images/mountietocat.png" width="30%" height="30%" />
-<img src="https://octodex.github.com/images/labtocat.png" width="30%" height="30%" />
-
+<div>
+<img src="https://octodex.github.com/images/mountietocat.png" width="10%" height="10%" />
+<img src="https://octodex.github.com/images/labtocat.png" width="10%" height="10%" />
+</div>
 
 # digital-talent
 
 :octocat: Repository for **Digital Talent Scholarship 2018** | Big Data | UGM
 
-**Big Data Analytics** specialization class facilitated by Universitas Gadjah Mada (UGM)
-
-Event held by Ministry of Communication and Information Technology of the Republic of Indonesia 
+**Big Data Analytics** specialization class facilitated by Universitas Gadjah Mada (UGM) 
+and event held by Ministry of Communication and Information Technology of the Republic of Indonesia 
 
 ### - Tugas BMI
 Python Notebook program to calculate **Body mass index (BMI)** is a measure of body fat based on height and weight that applies to adult men and women. Categorize Body Mass Index(BMI) according to the BMI table
