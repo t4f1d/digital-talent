@@ -21,6 +21,8 @@ Python Notebook program to measure the common **statistical functions**. A stati
 
 ---
 
+<img src="https://octodex.github.com/images/spidertocat.png" width="10%" height="10%" /> 
+
 ## Scrapping
 **Web scraping** is a program or algorithm to extract and process large amounts of data from the web. All of the tasks related on the scrapping function are placed in this folder.
 
@@ -31,11 +33,13 @@ Scrapping articles from the *kompas.com* website. Getting articles data from kom
 - All of the data of the article are saved on `scrap-data\data_berita.csv` file
 
 ### - Scrapping Twitter
-
+`Still in progress`
 
 ---
 
-# Installation
+<img src="https://octodex.github.com/images/setuptocat.jpg" width="10%" height="10%" />
+
+## Installation 
 
 This repository requires [Python 3.7](https://www.python.org/downloads/) v3+ to run.
 
