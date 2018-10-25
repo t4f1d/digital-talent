@@ -1,5 +1,6 @@
-![Indonesia](https://octodex.github.com/images/mountietocat.png){:height="30%" width="30%"}
-![Data Scientist](https://octodex.github.com/images/labtocat.png){:height="30%" width="30%"}
+<img src="https://octodex.github.com/images/mountietocat.png" width="30%" height="30%" />
+<img src="https://octodex.github.com/images/labtocat.png" width="30%" height="30%" />
+
 
 # digital-talent
 
