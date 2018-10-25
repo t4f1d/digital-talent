@@ -33,7 +33,9 @@ Scrapping articles from the [kompas.com](https://www.kompas.com/) website. Getti
 - All of the data of the article are saved on `scrap-data\data_berita.csv` file
 
 ### - Scrapping Twitter
-`Still in progress`
+Scrapping tweets from [twitter](https://twitter.com/) website. Getting tweets from the [twitter](https://twitter.com/) which related to specific term. All of the tweets are saved in the `scrap-data` folder.
+
+- All of the twees are saved on `scrap-data\data_twitter.xlsx` file
 
 ---
 
