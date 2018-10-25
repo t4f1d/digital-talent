@@ -1,6 +1,9 @@
 # digital-talent
-Repository for **Digital Talent Scholarship 2018** | Big Data | UGM
+
+:octocat: Repository for **Digital Talent Scholarship 2018** | Big Data | UGM
+
 Big Data Analytics specialization class facilitated by Universitas Gadjah Mada (UGM)
+
 Event held by Ministry of Communication and Information Technology of the Republic of Indonesia
 
 ### Tugas BMI
@@ -18,8 +21,9 @@ Python Notebook program to measure the common **statistical functions**. A stati
 **Web scraping** is a program or algorithm to extract and process large amounts of data from the web. All of the tasks related on the scrapping function are placed in this folder.
 
 ### Scrapping Kompas
-Scrapping articles from the *kompas.com* website. Getting articles data from kompas.com which related to technology and put the result on `scrap-images` data `scrap-data` folders
-... All of the images are placed in `scrap-images` folder
-... All of the data of the article are saved on `scrap-data\data_berita.csv` file
+Scrapping articles from the *kompas.com* website. Getting articles data from kompas.com which related to technology and put the result on `scrap-images` data `scrap-data` folders.
+
+- All of the images are placed in `scrap-images` folder
+- All of the data of the article are saved on `scrap-data\data_berita.csv` file
 
 ### Scrapping Twitter
