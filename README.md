@@ -43,8 +43,8 @@ Scrapping tweets from [twitter](https://twitter.com/) website. Getting tweets fr
 
 ## - Scrapping Tirto
 Scrapping articles from [Tirto.id](https://tirto.id/) website. Trying to get articles from this website and put all of the articles to the `scrapping/scrap-data` folder
-- First, Try to get list articles from first index of the website and save on `scrapping/scrap-data/tirto.xlsx` file
-- Second, Try to get list articles from 1st to 14th index of the website and save on `scrapping/scrap-data/tirtoArticles.xlsx` file
+- First, Get list articles from **1<sup>st</sup>** index of the website and save on `scrapping/scrap-data/tirto.xlsx` file
+- Second, Get list articles from **1<sup>st</sup>** to **14<sup>th</sup>** index of the website and save on `scrapping/scrap-data/tirtoArticles.xlsx` file
 
 ---
 
@@ -56,7 +56,7 @@ Scrapping articles from [Tirto.id](https://tirto.id/) website. Trying to get art
 Before start this folder notebook, please make sure to complete this following list:
 - Install [XAMPP](https://www.apachefriends.org/index.html)
 - Start MySQL Database, and Apache Webserver
-- Install Package [PyMySQL](https://github.com/PyMySQL/PyMySQL) on this notebook, this package contains a pure-Python MySQL client library
+- Install Package [PyMySQL](https://github.com/PyMySQL/PyMySQL) in this notebook, this package contains a pure-Python MySQL client library
 - Import database `SQL/mysqlsampledatabase.sql` to MySQL Database
 
 
