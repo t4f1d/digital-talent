@@ -1,7 +1,7 @@
 <div>
 <img src="https://octodex.github.com/images/mountietocat.png" width="10%" height="10%" />
 <img src="https://octodex.github.com/images/labtocat.png" width="10%" height="10%" />
-<img src="https://octodex.github.com/images/pythocat.png" width="10%" height="10%" />
+<!-- <img src="https://octodex.github.com/images/pythocat.png" width="10%" height="10%" /> -->
 </div>
 
 # digital-talent
@@ -31,18 +31,20 @@ Analysis data from [data.go.id](https://data.go.id/) which determine the percent
 **Web scraping** is a program or algorithm to extract and process large amounts of data from the web. All of the tasks related on the scrapping function are placed in this folder.
 
 ## - Scrapping Kompas
-Scrapping articles from the [kompas.com](https://www.kompas.com/) website. Getting articles data from [kompas.com](https://www.kompas.com/) which related to technology and put the result on `scrap-images` data `scrap-data` folders.
+Scrapping articles from the [kompas.com](https://www.kompas.com/) website. Getting articles data from [kompas.com](https://www.kompas.com/) which related to technology and put the result on `scrapping/scrap-images` data `scrapping/scrap-data` folders.
 
-- All of the images are placed in `scrap-images` folder
-- All of the data of the article are saved on `scrap-data\data_berita.csv` file
+- All of the images are placed in `scrapping/scrap-images` folder
+- All of the data of the article are saved on `scrapping/scrap-data/data_berita.csv` file
 
 ## - Scrapping Twitter
-Scrapping tweets from [twitter](https://twitter.com/) website. Getting tweets from the [twitter](https://twitter.com/) which related to specific term. All of the tweets are saved in the `scrap-data` folder.
+Scrapping tweets from [twitter](https://twitter.com/) website. Getting tweets from the [twitter](https://twitter.com/) which related to specific term. All of the tweets are saved in the `scrapping/scrap-data` folder.
 
-- All of the twees are saved on `scrap-data\data_twitter.xlsx` file
+- All of the twees are saved on `scrapping/scrap-data/data_twitter.xlsx` file
 
 ## - Scrapping Tirto
-`On Progress...`
+Scrapping articles from [Tirto.id](https://tirto.id/) website. Trying to get articles from this website and put all of the articles to the `scrapping/scrap-data` folder
+- First, Try to get list articles from first index of the website and save on `scrapping/scrap-data/tirto.xlsx` file
+- Second, Try to get list articles from 1st to 14th index of the website and save on `scrapping/scrap-data/tirtoArticles.xlsx` file
 
 ---
 
