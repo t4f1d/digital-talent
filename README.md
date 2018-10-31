@@ -1,6 +1,7 @@
 <div>
 <img src="https://octodex.github.com/images/mountietocat.png" width="10%" height="10%" />
 <img src="https://octodex.github.com/images/labtocat.png" width="10%" height="10%" />
+<img src="https://octodex.github.com/images/pythocat.png" width="10%" height="10%" />
 </div>
 
 # digital-talent
@@ -39,6 +40,23 @@ Scrapping articles from the [kompas.com](https://www.kompas.com/) website. Getti
 Scrapping tweets from [twitter](https://twitter.com/) website. Getting tweets from the [twitter](https://twitter.com/) which related to specific term. All of the tweets are saved in the `scrap-data` folder.
 
 - All of the twees are saved on `scrap-data\data_twitter.xlsx` file
+
+## - Scrapping Tirto
+`On Progress...`
+
+---
+
+<img src="https://octodex.github.com/images/socialite.jpg" width="10%" height="10%" />
+
+# SQL
+**SQL (Structured Query Language)** is a standard language for storing, manipulating and retrieving data in databases, SQL lets you access and manipulate database.
+
+Before start this folder notebook, please make sure to complete this following list:
+- Install [XAMPP](https://www.apachefriends.org/index.html)
+- Start MySQL Database, and Apache Webserver
+- Install Package [PyMySQL](https://github.com/PyMySQL/PyMySQL) on this notebook, this package contains a pure-Python MySQL client library
+- Import database `SQL/mysqlsampledatabase.sql` to MySQL Database
+
 
 ---
 
