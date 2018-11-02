@@ -28,7 +28,7 @@ Analysis data from [data.go.id](https://data.go.id/) which determine the percent
 <img src="https://octodex.github.com/images/spidertocat.png" width="10%" height="10%" /> 
 
 # Scrapping
-**Web scraping** is a program or algorithm to extract and process large amounts of data from the web. All of the tasks related on the scrapping function are placed in this folder.
+**Web scraping** is a program or algorithm to extract and process large amounts of data from the web. All of the tasks related on the scrapping function are placed in `scrapping` folder.
 
 ## - Scrapping Kompas
 Scrapping articles from the [kompas.com](https://www.kompas.com/) website. Getting articles data from [kompas.com](https://www.kompas.com/) which related to technology and put the result on `scrapping/scrap-images` data `scrapping/scrap-data` folders.
@@ -48,10 +48,24 @@ Scrapping articles from [Tirto.id](https://tirto.id/) website. Trying to get art
 
 ---
 
+<img src="https://octodex.github.com/images/Sentrytocat_octodex.jpg" width="10%" height="10%" />
+
+# Data Cleaning
+**Data cleaning** is the process of detecting and correcting (or removing) corrupt or inaccurate records from a record set, table, or database and refers to identifying incomplete, incorrect, inaccurate or irrelevant parts of the data and then replacing, modifying, or deleting the dirty or coarse data. All of the tasks related on the scrapping function are placed in `cleaningData` folder.
+
+- Missing Value
+- Encoding Data Category
+- Binarizing
+- Scaling feature
+- Feature Extraction(Count Vectorizer, Vectorizer Dict, TfIdf Vectorizer)
+
+
+---
+
 <img src="https://octodex.github.com/images/socialite.jpg" width="10%" height="10%" />
 
 # SQL
-**SQL (Structured Query Language)** is a standard language for storing, manipulating and retrieving data in databases, SQL lets you access and manipulate database.
+**SQL (Structured Query Language)** is a standard language for storing, manipulating and retrieving data in databases, SQL lets you access and manipulate database. All of the tasks related on the scrapping function are placed in `SQL` folder.
 
 Before start this folder notebook, please make sure to complete this following list:
 - Install [XAMPP](https://www.apachefriends.org/index.html)
@@ -59,6 +73,10 @@ Before start this folder notebook, please make sure to complete this following l
 - Install Package [PyMySQL](https://github.com/PyMySQL/PyMySQL) in this notebook, this package contains a pure-Python MySQL client library
 - Import database `SQL/mysqlsampledatabase.sql` to MySQL Database
 
+***SQL List***
+- SQL Query 
+- SQL Join
+- SQL SubQuery
 
 ---
 
