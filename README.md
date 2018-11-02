@@ -65,7 +65,7 @@ Scrapping articles from [Tirto.id](https://tirto.id/) website. Trying to get art
 <img src="https://octodex.github.com/images/socialite.jpg" width="10%" height="10%" />
 
 # SQL
-**SQL (Structured Query Language)** is a standard language for storing, manipulating and retrieving data in databases, SQL lets you access and manipulate database. All of the tasks related on the scrapping function are placed in `SQL` folder.
+**SQL (Structured Query Language)** is a standard language for storing, manipulating and retrieving data in databases, SQL lets you access and manipulate database. All of the tasks related on the SQL are placed in `SQL` folder.
 
 Before start this folder notebook, please make sure to complete this following list:
 - Install [XAMPP](https://www.apachefriends.org/index.html)
@@ -73,10 +73,21 @@ Before start this folder notebook, please make sure to complete this following l
 - Install Package [PyMySQL](https://github.com/PyMySQL/PyMySQL) in this notebook, this package contains a pure-Python MySQL client library
 - Import database `SQL/mysqlsampledatabase.sql` to MySQL Database
 
-***SQL List***
+### SQL List Notebook
 - SQL Query 
 - SQL Join
 - SQL SubQuery
+
+---
+
+<img src="https://octodex.github.com/images/Professortocat_v2.png" width="10%" height="10%" />
+
+# Statistics
+**Statistics** is the science of collecting, analyzing and understanding data, and accounting for the relevant uncertainties. As such, it permeates the physical, natural and social sciences; public health; medicine; business; and policy. Statistics is fundamental to ensuring meaningful, accurate information is extracted from Big Data. All of the tasks related on the Statistics are placed in `statistics` folder.
+
+## - Descriptive Statistics
+A descriptive statistic is a summary statistic that quantitatively describes or summarizes features of a collection of information, while descriptive statistics in the mass noun sense is the process of using and analyzing those statistics.
+
 
 ---
 
