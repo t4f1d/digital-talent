@@ -1,0 +1,4 @@
+Decision Tree; 97.69% +/- 3.53%
+Random Forest; 96.92% +/- 3.77%
+GradientBoosted; 96.15% +/- 5.16% 
+KNN; 80.11% +/- 17.64%
